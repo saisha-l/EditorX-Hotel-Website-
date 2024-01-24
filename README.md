@@ -1,2 +1,3 @@
-# EditorX-Hotel-Website-
-Simple booking platform using wix velo javascript and wix data api.
+# North Point Ski Resort Website-
+Created a simple booking platform for a ski resort website using wix velo javascript and wix data api. 
+
